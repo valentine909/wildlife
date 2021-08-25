@@ -79,7 +79,7 @@ h3 {
 .nav-menu-main li {
     text-align: center;
     list-style: none;
-    margin: 0px 60px 0 0;
+    margin: 0 60px 0 0;
 }
 .nav-menu-main-link, .nav-menu-main-link-sign {
     display: flex;
@@ -101,7 +101,7 @@ h3 {
     align-items: center;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    padding: 2px 23px 0px 23px;
+    padding: 2px 23px 0 23px;
     border: 2px solid #CD6326;
     border-radius: 5px;
     margin-right: 120px !important;
@@ -155,8 +155,7 @@ h3 {
 }
 .news-title {
     text-align: center;
-    margin: 0;
-    margin-bottom: 120px;
+    margin: 0 0 120px;
 }
 
 .news-title sh2 {
@@ -189,10 +188,8 @@ h3 {
     position: relative;
 }
 .description {
-    margin: 0;
     width: 300px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     position: absolute;
     top: 247px;
     left: 0;
@@ -215,10 +212,9 @@ h3 {
 }
 .email {
     text-align: center;
-    margin: 0 auto;
     position: relative;
     width: 660px;
-    margin-bottom: 240px;
+    margin: 0 auto 240px;
 }
 .email h3 {
     margin-bottom: 60px;
@@ -253,7 +249,7 @@ h3 {
     background: #CD6326;
     text-align: center;
     border: 1px solid #CD6326;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 0 5px 5px 0;
     line-height: 60px;
 }
 /* Main style end */
@@ -280,13 +276,12 @@ h3 {
     flex-wrap: wrap;
     align-items: center;
     padding: 0;
-    margin: 0;
-    margin-right: 35px;
+    margin: 0 35px 0 0;
 }
 .footer-navigation-items li {
     text-align: center;
     list-style: none;
-    margin: 0px 85px 0 0;
+    margin: 0 85px 0 0;
     align-items: center;
 }
 .footer-navigation-links {
@@ -300,8 +295,7 @@ h3 {
     flex-wrap: wrap;
     align-items: center;
     padding: 0;
-    margin: 0;
-    margin-right: 93px;
+    margin: 0 93px 0 0;
 }
 .footer-social-network-items li {
     display: flex;
