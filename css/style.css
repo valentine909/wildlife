@@ -38,12 +38,13 @@ h3 {
 .header {
     color: #fff;
     height: 780px;
+    background-size: contain;
     background: url('../img/fox_hero.jpg') no-repeat center;
     margin-top: -1px;
     margin-bottom: 120px;
 }
 .main-wrapper {
-    width: 1440px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 .navigation {
