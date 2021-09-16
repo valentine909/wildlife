@@ -257,7 +257,7 @@ h3 {
 
 /* Footer style start */
 .footer {
-    background: url(/img/footer_bg.png) no-repeat center;
+    background: url("../img/footer_bg.png") no-repeat center;
     height: 360px;
     display: flex;
     flex-wrap: wrap;
